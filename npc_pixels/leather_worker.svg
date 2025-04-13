@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- 制革匠基本特征 -->
+  <g id="leather_worker">
+    <!-- 头部和脸部 -->
+    <path d="M462 280 L562 280 L542 380 L482 380 L462 280" fill="#e8b89c"/>
+    <path d="M482 320 L542 320 L532 350 L492 350 L482 320" fill="#d4a28c"/>
+    
+    <!-- 棕色长发马尾 -->
+    <path d="M452 260 L572 260 L562 280 L462 280 L452 260" fill="#654321"/>
+    <path d="M502 180 L522 180 L522 260 L502 260 L502 180" fill="#654321"/>
+    <path d="M522 200 L542 220 L522 240" fill="#654321" stroke="#654321" stroke-width="2"/>
+    
+    <!-- 健壮手臂 -->
+    <path d="M422 380 L462 380 L452 480 L412 480" fill="#e8b89c"/>
+    <path d="M562 380 L602 380 L612 480 L572 480" fill="#e8b89c"/>
+    
+    <!-- 皮革工作服 -->
+    <path d="M462 380 L562 380 L582 580 L442 580" fill="#8b4513"/>
+    <path d="M472 400 L552 400 L567 560 L457 560" fill="#a0522d"/>
+    
+    <!-- 工具 - 剪刀 -->
+    <path d="M412 480 L432 460 L452 480 L432 500 Z" fill="#c0c0c0"/>
+    
+    <!-- 工具 - 皮革 -->
+    <path d="M572 460 L612 460 L622 500 L562 500 Z" fill="#8b4513"/>
+    
+    <!-- 专注表情 -->
+    <circle cx="502" cy="310" r="3" fill="#000000"/>
+    <circle cx="522" cy="310" r="3" fill="#000000"/>
+    <path d="M502 330 L522 330" fill="none" stroke="#000000" stroke-width="2"/>
+    
+    <!-- 装饰细节 -->
+    <path d="M462 420 L562 420" fill="none" stroke="#654321" stroke-width="4"/>
+    <path d="M472 440 L552 440" fill="none" stroke="#654321" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 320 L562 320 L542 420 L482 420 L462 320" fill="#ffccaa"/>
+  <path d="M482 420 L542 420 L532 480 L492 480 L482 420" fill="#ffccaa"/>
+  
+  <!-- 短黑发 -->
+  <path d="M452 280 C442 260 442 240 462 230 C482 220 502 220 522 230 C542 240 552 260 552 280 C552 300 542 320 522 330 C502 340 482 340 462 330 C442 320 442 300 452 280" fill="#000000"/>
+  
+  <!-- 平和的眼神 -->
+  <circle cx="492" cy="360" r="6" fill="#000000"/>
+  <circle cx="522" cy="360" r="6" fill="#000000"/>
+  <circle cx="494" cy="358" r="2" fill="#ffffff"/>
+  <circle cx="524" cy="358" r="2" fill="#ffffff"/>
+  
+  <!-- 平和表情 -->
+  <path d="M492 380 Q507 385 522 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 简洁干净衣服 -->
+  <path d="M462 420 L482 420 L492 480 L472 580 L442 580 L462 420" fill="#ffffff"/>
+  <path d="M542 420 L522 420 L512 480 L532 580 L562 580 L542 420" fill="#ffffff"/>
+  
+  <!-- 衣服细节 -->
+  <path d="M472 450 L532 450" fill="none" stroke="#f0f0f0" stroke-width="4"/>
+  <path d="M472 470 L532 470" fill="none" stroke="#f0f0f0" stroke-width="4"/>
+  
+  <!-- 强壮灵活的手臂 -->
+  <path d="M462 440 L442 460" fill="none" stroke="#ffccaa" stroke-width="15"/>
+  <path d="M542 440 L562 460" fill="none" stroke="#ffccaa" stroke-width="15"/>
+  
+  <!-- 精油和按摩工具 -->
+  <path d="M432 450 L442 450 L442 470 L432 470 Z" fill="#4169e1"/>
+  <path d="M552 450 C552 440 572 440 572 450 C572 460 552 460 552 450" fill="#8b4513"/>
+  
+  <!-- 腿 -->
+  <path d="M482 580 L472 640" fill="none" stroke="#ffccaa" stroke-width="12"/>
+  <path d="M522 580 L532 640" fill="none" stroke="#ffccaa" stroke-width="12"/>
+ </g>
+</svg>

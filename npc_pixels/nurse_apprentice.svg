@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 320 L562 320 L542 420 L482 420 L462 320" fill="#ffccaa"/>
+  <path d="M482 420 L542 420 L532 480 L492 480 L482 420" fill="#ffccaa"/>
+  
+  <!-- 棕色短发马尾 -->
+  <path d="M452 280 C442 260 442 240 462 230 C482 220 502 220 522 230 C542 240 552 260 552 280 C552 300 542 320 522 330 C502 340 482 340 462 330 C442 320 442 300 452 280" fill="#8b4513"/>
+  <path d="M522 280 L562 300 L572 320" fill="none" stroke="#8b4513" stroke-width="8"/>
+  
+  <!-- 脸上的雀斑 -->
+  <circle cx="482" cy="350" r="2" fill="#8b4513"/>
+  <circle cx="492" cy="345" r="2" fill="#8b4513"/>
+  <circle cx="502" cy="350" r="2" fill="#8b4513"/>
+  <circle cx="512" cy="345" r="2" fill="#8b4513"/>
+  <circle cx="522" cy="350" r="2" fill="#8b4513"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="492" cy="360" r="6" fill="#000000"/>
+  <circle cx="522" cy="360" r="6" fill="#000000"/>
+  <circle cx="494" cy="358" r="2" fill="#ffffff"/>
+  <circle cx="524" cy="358" r="2" fill="#ffffff"/>
+  
+  <!-- 温暖微笑 -->
+  <path d="M492 380 Q507 390 522 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 简单护士服 -->
+  <path d="M462 420 L482 420 L492 480 L472 580 L442 580 L462 420" fill="#ffffff"/>
+  <path d="M542 420 L522 420 L512 480 L532 580 L562 580 L542 420" fill="#ffffff"/>
+  
+  <!-- 护士帽 -->
+  <path d="M472 260 L552 260 L542 280 L482 280 Z" fill="#ffffff"/>
+  <path d="M502 240 L522 240 L522 260 L502 260 Z" fill="#ff0000"/>
+  
+  <!-- 手臂 -->
+  <path d="M462 440 L442 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M542 440 L562 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  
+  <!-- 药瓶和绷带 -->
+  <path d="M432 450 L452 450 L452 470 L432 470 Z" fill="#4169e1"/>
+  <path d="M552 450 C552 440 572 440 572 450 C572 460 552 460 552 450" fill="#ffffff"/>
+  
+  <!-- 腿 -->
+  <path d="M482 580 L472 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M522 580 L532 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+ </g>
+</svg>

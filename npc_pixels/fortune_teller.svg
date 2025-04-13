@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- 占卜师基本特征 -->
+  <g id="fortune_teller">
+    <!-- 头部和脸部 -->
+    <path d="M462 280 L562 280 L542 380 L482 380 L462 280" fill="#e6e6fa"/>
+    <path d="M482 320 L542 320 L532 350 L492 350 L482 320" fill="#d8bfd8"/>
+    
+    <!-- 银灰色长发 -->
+    <path d="M452 260 L572 260 L562 280 L462 280 L452 260" fill="#c0c0c0"/>
+    <path d="M462 200 L572 200 L572 260 L462 260" fill="#a9a9a9"/>
+    <path d="M472 180 L562 180 L562 200 L472 200" fill="#c0c0c0"/>
+    
+    <!-- 神秘眼神 -->
+    <circle cx="502" cy="310" r="3" fill="#4b0082"/>
+    <circle cx="522" cy="310" r="3" fill="#4b0082"/>
+    <path d="M502 330 Q512 335 522 330" fill="none" stroke="#000000" stroke-width="2"/>
+    
+    <!-- 深色长袍 -->
+    <path d="M462 380 L562 380 L582 580 L442 580" fill="#483d8b"/>
+    <path d="M472 400 L552 400 L567 560 L457 560" fill="#4b0082"/>
+    
+    <!-- 神秘饰品 -->
+    <circle cx="512" cy="420" r="8" fill="#ffd700"/>
+    <path d="M502 410 L522 410" fill="none" stroke="#ffd700" stroke-width="2"/>
+    <path d="M502 430 L522 430" fill="none" stroke="#ffd700" stroke-width="2"/>
+    
+    <!-- 工具 - 塔罗牌 -->
+    <path d="M412 460 L452 460 L462 500 L422 500" fill="#dda0dd"/>
+    <path d="M422 470 L442 470 L447 490 L427 490" fill="#ba55d3"/>
+    <path d="M432 465 L442 465" fill="none" stroke="#ffd700" stroke-width="1"/>
+    
+    <!-- 工具 - 水晶球 -->
+    <circle cx="592" cy="480" r="20" fill="#b0e0e6" opacity="0.6"/>
+    <circle cx="587" cy="475" r="5" fill="#ffffff" opacity="0.8"/>
+    
+    <!-- 若有所思表情 -->
+    <path d="M502 335 Q512 340 522 335" fill="none" stroke="#000000" stroke-width="1"/>
+    
+    <!-- 装饰细节 -->
+    <path d="M472 440 L552 440" fill="none" stroke="#9370db" stroke-width="2"/>
+    <path d="M482 460 L542 460" fill="none" stroke="#9370db" stroke-width="2"/>
+    
+    <!-- 神秘符号 -->
+    <path d="M492 450 L502 460 L492 470" fill="none" stroke="#ffd700" stroke-width="1"/>
+    <path d="M522 450 L532 460 L522 470" fill="none" stroke="#ffd700" stroke-width="1"/>
+  </g>
+</svg>

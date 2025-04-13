@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 300 Q512 280 562 300 L562 600 Q512 620 462 600 Z" fill="#D2B48C" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 深褐色短发 -->
+  <path d="M462 280 Q512 260 562 280 Q572 240 512 220 Q452 240 462 280" fill="#3B2F2F" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 眼睛和风霜痕迹 -->
+  <circle cx="492" cy="350" r="5" fill="#000000"/>
+  <circle cx="532" cy="350" r="5" fill="#000000"/>
+  <path d="M472 360 L502 360" fill="none" stroke="#A0522D" stroke-width="1"/>
+  <path d="M522 360 L552 360" fill="none" stroke="#A0522D" stroke-width="1"/>
+  
+  <!-- 皮革猎装 -->
+  <path d="M442 400 L442 700 Q512 720 582 700 L582 400 Q512 420 442 400" fill="#8B4513" stroke="#000000" stroke-width="2"/>
+  <path d="M462 450 L562 450" fill="none" stroke="#654321" stroke-width="2"/>
+  <path d="M462 500 L562 500" fill="none" stroke="#654321" stroke-width="2"/>
+  
+  <!-- 弓箭 -->
+  <path d="M582 400 Q622 420 622 460 Q622 500 582 520" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <path d="M602 460 L642 460" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 猎物背包 -->
+  <path d="M442 500 L422 600 L462 600 Z" fill="#8B4513" stroke="#000000" stroke-width="2"/>
+ </g>
+</svg>

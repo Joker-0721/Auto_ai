@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M452 300 Q512 280 572 300 L572 600 Q512 620 452 600 Z" fill="#8B4513" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 浓密黑胡子 -->
+  <path d="M472 380 Q512 400 552 380 Q512 420 472 380" fill="#000000" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 眼睛和伤疤 -->
+  <circle cx="482" cy="350" r="5" fill="#000000"/>
+  <circle cx="542" cy="350" r="5" fill="#000000"/>
+  <path d="M502 320 L522 340" fill="none" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- 黑发 -->
+  <path d="M452 280 Q512 260 572 280 Q582 220 512 200 Q442 220 452 280" fill="#000000" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 皮革围裙 -->
+  <path d="M432 400 L432 700 Q512 720 592 700 L592 400 Q512 420 432 400" fill="#8B4513" stroke="#000000" stroke-width="2"/>
+  <path d="M452 450 L572 450" fill="none" stroke="#654321" stroke-width="2"/>
+  
+  <!-- 强壮手臂 -->
+  <path d="M432 400 Q382 450 362 500" fill="#8B4513" stroke="#000000" stroke-width="10"/>
+  <path d="M592 400 Q642 450 662 500" fill="#8B4513" stroke="#000000" stroke-width="10"/>
+  
+  <!-- 铁锤和钳子 -->
+  <path d="M362 500 L342 460" fill="#4A4A4A" stroke="#000000" stroke-width="8"/>
+  <path d="M332 450 L352 470" fill="#4A4A4A" stroke="#000000" stroke-width="12"/>
+  
+  <path d="M662 500 Q682 490 682 470 Q682 450 662 440" fill="none" stroke="#4A4A4A" stroke-width="4"/>
+ </g>
+</svg>

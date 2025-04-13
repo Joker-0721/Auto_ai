@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- 蜡烛制作师基本特征 -->
+  <g id="candle_maker">
+    <!-- 头部和脸部 -->
+    <path d="M462 280 L562 280 L542 380 L482 380 L462 280" fill="#ffe4c4"/>
+    <path d="M482 320 L542 320 L532 350 L492 350 L482 320" fill="#f5d4b4"/>
+    
+    <!-- 整洁短发 -->
+    <path d="M452 260 L572 260 L562 280 L462 280 L452 260" fill="#8b4513"/>
+    <path d="M462 240 L572 240 L572 260 L462 260 L462 240" fill="#a0522d"/>
+    
+    <!-- 灵巧手指 -->
+    <path d="M422 380 L462 380 L452 480 L412 480" fill="#ffe4c4"/>
+    <path d="M562 380 L602 380 L612 480 L572 480" fill="#ffe4c4"/>
+    
+    <!-- 衣服有蜡渍 -->
+    <path d="M462 380 L562 380 L582 580 L442 580" fill="#f5f5f5"/>
+    <path d="M472 400 L552 400 L567 560 L457 560" fill="#e6e6fa"/>
+    
+    <!-- 蜡渍痕迹 -->
+    <circle cx="492" cy="450" r="5" fill="#ffffff" opacity="0.8"/>
+    <circle cx="522" cy="470" r="4" fill="#ffffff" opacity="0.8"/>
+    <circle cx="502" cy="490" r="6" fill="#ffffff" opacity="0.8"/>
+    
+    <!-- 工具 - 未完成的蜡烛 -->
+    <path d="M412 460 L452 460 L462 500 L422 500" fill="#fffafa"/>
+    <path d="M422 470 L442 470 L447 490 L427 490" fill="#fff5ee"/>
+    
+    <!-- 工具 - 制作工具 -->
+    <path d="M572 460 L612 460 L622 500 L562 500" fill="#a0522d"/>
+    <path d="M582 470 L602 470 L607 490 L577 490" fill="#8b4513"/>
+    
+    <!-- 专注表情 -->
+    <circle cx="502" cy="310" r="3" fill="#000000"/>
+    <circle cx="522" cy="310" r="3" fill="#000000"/>
+    <path d="M502 335 L522 335" fill="none" stroke="#000000" stroke-width="2"/>
+    
+    <!-- 装饰细节 -->
+    <path d="M472 440 L552 440" fill="none" stroke="#dcdcdc" stroke-width="2"/>
+    <path d="M482 460 L542 460" fill="none" stroke="#dcdcdc" stroke-width="2"/>
+    
+    <!-- 蜡烛火焰效果 -->
+    <path d="M432 450 Q437 440 442 450" fill="#ffd700" opacity="0.8"/>
+    <path d="M434 445 Q437 435 440 445" fill="#ff4500" opacity="0.6"/>
+  </g>
+</svg>

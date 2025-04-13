@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 300 Q512 280 562 300 L562 600 Q512 620 462 600 Z" fill="#FFE4C4" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 红褐色卷发 -->
+  <path d="M462 280 Q512 260 562 280 Q582 200 512 180 Q442 200 462 280" fill="#8B4513" stroke="#000000" stroke-width="2"/>
+  <path d="M452 240 Q442 220 452 200" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <path d="M572 240 Q582 220 572 200" fill="none" stroke="#8B4513" stroke-width="4"/>
+  
+  <!-- 眼睛和笑容 -->
+  <circle cx="492" cy="350" r="5" fill="#000000"/>
+  <circle cx="532" cy="350" r="5" fill="#000000"/>
+  <path d="M492 380 Q512 400 532 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 花围裙 -->
+  <path d="M442 400 L442 700 Q512 720 582 700 L582 400 Q512 420 442 400" fill="#FFC0CB" stroke="#000000" stroke-width="2"/>
+  <path d="M462 450 L562 450" fill="none" stroke="#FF69B4" stroke-width="2"/>
+  <path d="M462 500 L562 500" fill="none" stroke="#FF69B4" stroke-width="2"/>
+  
+  <!-- 花朵图案 -->
+  <circle cx="482" cy="475" r="5" fill="#FF1493"/>
+  <circle cx="522" cy="525" r="5" fill="#FF1493"/>
+  
+  <!-- 酒杯和抹布 -->
+  <path d="M442 550 L462 550 L472 600 L432 600 Z" fill="#B8860B" stroke="#000000" stroke-width="2"/>
+  <path d="M562 550 Q582 560 582 580 Q582 600 562 610" fill="none" stroke="#808080" stroke-width="4"/>
+ </g>
+</svg>

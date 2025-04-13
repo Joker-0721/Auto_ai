@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 320 L562 320 L542 420 L482 420 L462 320" fill="#ffccaa"/>
+  <path d="M482 420 L542 420 L532 480 L492 480 L482 420" fill="#ffccaa"/>
+  
+  <!-- 黑发复杂辫子 -->
+  <path d="M452 280 C442 260 442 240 462 230 C482 220 502 220 522 230 C542 240 552 260 552 280 C552 300 542 320 522 330 C502 340 482 340 462 330 C442 320 442 300 452 280" fill="#000000"/>
+  <path d="M522 280 L542 300 L552 320 L562 340" fill="none" stroke="#000000" stroke-width="8"/>
+  <path d="M532 290 L552 310 L562 330 L572 350" fill="none" stroke="#000000" stroke-width="8"/>
+  
+  <!-- 狼爪疤痕 -->
+  <path d="M472 340 L482 350" fill="none" stroke="#8b4513" stroke-width="2"/>
+  <path d="M477 340 L487 350" fill="none" stroke="#8b4513" stroke-width="2"/>
+  <path d="M482 340 L492 350" fill="none" stroke="#8b4513" stroke-width="2"/>
+  
+  <!-- 警觉的眼神 -->
+  <path d="M472 355 L492 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M502 355 L522 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="482" cy="360" r="6" fill="#000000"/>
+  <circle cx="512" cy="360" r="6" fill="#000000"/>
+  
+  <!-- 警觉表情 -->
+  <path d="M482 380 L512 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 实用皮革装备 -->
+  <path d="M462 420 L482 420 L492 480 L472 580 L442 580 L462 420" fill="#8b4513"/>
+  <path d="M542 420 L522 420 L512 480 L532 580 L562 580 L542 420" fill="#8b4513"/>
+  
+  <!-- 皮革装备细节 -->
+  <path d="M472 440 L532 440" fill="none" stroke="#654321" stroke-width="4"/>
+  <path d="M472 460 L532 460" fill="none" stroke="#654321" stroke-width="4"/>
+  <path d="M472 480 L532 480" fill="none" stroke="#654321" stroke-width="4"/>
+  
+  <!-- 手臂 -->
+  <path d="M462 440 L442 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M542 440 L562 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  
+  <!-- 长弓和猎刀 -->
+  <path d="M432 430 C422 420 422 480 432 470" fill="none" stroke="#8b4513" stroke-width="6"/>
+  <path d="M432 425 L442 455" fill="none" stroke="#8b4513" stroke-width="2"/>
+  <path d="M552 450 L572 450 L572 460 L552 460 Z" fill="#c0c0c0"/>
+  
+  <!-- 腿 -->
+  <path d="M482 580 L472 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M522 580 L532 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+ </g>
+</svg>

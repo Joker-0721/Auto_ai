@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- 酿酒师基本特征 -->
+  <g id="brewer">
+    <!-- 头部和红润脸颊 -->
+    <path d="M462 280 L562 280 L542 380 L482 380 L462 280" fill="#ffb6b6"/>
+    <path d="M472 270 L552 270 L542 390 L482 390" fill="#ff9999"/>
+    
+    <!-- 浓密胡须 -->
+    <path d="M482 340 L542 340 L532 380 L492 380" fill="#8b4513"/>
+    <path d="M492 350 L532 350 L527 370 L497 370" fill="#a0522d"/>
+    
+    <!-- 带酒香的围裙 -->
+    <path d="M462 380 L562 380 L582 580 L442 580" fill="#8b4513"/>
+    <path d="M472 400 L552 400 L567 560 L457 560" fill="#a0522d"/>
+    
+    <!-- 工具 - 酒桶 -->
+    <path d="M412 460 L452 460 L462 520 L422 520" fill="#deb887"/>
+    <path d="M422 470 L442 470 L447 510 L427 510" fill="#d2691e"/>
+    <path d="M412 460 L452 460" fill="none" stroke="#8b4513" stroke-width="2"/>
+    <path d="M412 520 L452 520" fill="none" stroke="#8b4513" stroke-width="2"/>
+    
+    <!-- 工具 - 品酒杯 -->
+    <path d="M572 460 L592 460 L602 500 L562 500" fill="#f0f8ff" opacity="0.7"/>
+    <path d="M577 465 L587 465 L592 495 L572 495" fill="#8b0000" opacity="0.8"/>
+    
+    <!-- 豪爽笑容 -->
+    <circle cx="502" cy="310" r="3" fill="#000000"/>
+    <circle cx="522" cy="310" r="3" fill="#000000"/>
+    <path d="M502 330 Q512 350 522 330" fill="none" stroke="#000000" stroke-width="2"/>
+    
+    <!-- 红润脸颊特写 -->
+    <circle cx="492" cy="320" r="10" fill="#ff6666" opacity="0.3"/>
+    <circle cx="532" cy="320" r="10" fill="#ff6666" opacity="0.3"/>
+    
+    <!-- 装饰细节 -->
+    <path d="M472 440 L552 440" fill="none" stroke="#8b4513" stroke-width="2"/>
+    <path d="M482 460 L542 460" fill="none" stroke="#8b4513" stroke-width="2"/>
+  </g>
+</svg>

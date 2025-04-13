@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- 花匠基本特征 -->
+  <g id="gardener">
+    <!-- 头部和脸部 -->
+    <path d="M462 280 L562 280 L542 380 L482 380 L462 280" fill="#ffe4c4"/>
+    <path d="M482 320 L542 320 L532 350 L492 350 L482 320" fill="#f5d4b4"/>
+    
+    <!-- 红棕色短发 -->
+    <path d="M452 260 L572 260 L562 280 L462 280 L452 260" fill="#cd5c5c"/>
+    <path d="M462 240 L572 240 L572 260 L462 260 L462 240" fill="#b22222"/>
+    
+    <!-- 健康肤色 -->
+    <circle cx="492" cy="320" r="10" fill="#ffa07a" opacity="0.3"/>
+    <circle cx="532" cy="320" r="10" fill="#ffa07a" opacity="0.3"/>
+    
+    <!-- 园艺手套和围裙 -->
+    <path d="M462 380 L562 380 L582 580 L442 580" fill="#228b22"/>
+    <path d="M472 400 L552 400 L567 560 L457 560" fill="#32cd32"/>
+    
+    <!-- 工具 - 花剪 -->
+    <path d="M412 460 L432 460 L442 480 L422 480" fill="#c0c0c0"/>
+    <path d="M422 480 L442 480" fill="none" stroke="#a9a9a9" stroke-width="2"/>
+    
+    <!-- 工具 - 花束 -->
+    <path d="M572 460 L612 460 L622 500 L562 500" fill="#90ee90"/>
+    <circle cx="582" cy="470" r="5" fill="#ff69b4"/>
+    <circle cx="592" cy="480" r="5" fill="#ff1493"/>
+    <circle cx="602" cy="475" r="5" fill="#ff4500"/>
+    
+    <!-- 明媚笑容 -->
+    <circle cx="502" cy="310" r="3" fill="#000000"/>
+    <circle cx="522" cy="310" r="3" fill="#000000"/>
+    <path d="M502 330 Q512 340 522 330" fill="none" stroke="#000000" stroke-width="2"/>
+    
+    <!-- 装饰细节 -->
+    <path d="M472 440 L552 440" fill="none" stroke="#32cd32" stroke-width="2"/>
+    <path d="M482 460 L542 460" fill="none" stroke="#32cd32" stroke-width="2"/>
+    
+    <!-- 花朵装饰 -->
+    <circle cx="492" cy="420" r="3" fill="#ff69b4"/>
+    <circle cx="512" cy="430" r="3" fill="#ff1493"/>
+    <circle cx="532" cy="425" r="3" fill="#ff4500"/>
+  </g>
+</svg>

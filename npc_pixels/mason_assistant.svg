@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M452 320 L572 320 L552 420 L472 420 L452 320" fill="#ffccaa"/>
+  <path d="M472 420 L552 420 L542 480 L482 480 L472 420" fill="#ffccaa"/>
+  
+  <!-- 黑色卷发 -->
+  <path d="M442 280 C432 260 432 240 452 230 C472 220 492 220 512 230 C532 240 542 260 542 280 C542 300 532 320 512 330 C492 340 472 340 452 330 C432 320 432 300 442 280" fill="#000000"/>
+  <path d="M452 250 Q462 240 472 250 Q482 260 492 250 Q502 240 512 250 Q522 260 532 250" fill="none" stroke="#000000" stroke-width="4"/>
+  
+  <!-- 严肃的眼神 -->
+  <path d="M472 355 L492 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M502 355 L522 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="482" cy="360" r="6" fill="#000000"/>
+  <circle cx="512" cy="360" r="6" fill="#000000"/>
+  
+  <!-- 认真表情 -->
+  <path d="M482 380 L512 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 工作服 -->
+  <path d="M452 420 L472 420 L482 480 L462 580 L432 580 L452 420" fill="#808080"/>
+  <path d="M552 420 L532 420 L522 480 L542 580 L572 580 L552 420" fill="#808080"/>
+  
+  <!-- 石屑痕迹 -->
+  <circle cx="462" cy="450" r="2" fill="#c0c0c0"/>
+  <circle cx="482" cy="460" r="2" fill="#c0c0c0"/>
+  <circle cx="502" cy="450" r="2" fill="#c0c0c0"/>
+  <circle cx="522" cy="460" r="2" fill="#c0c0c0"/>
+  
+  <!-- 强壮的手臂 -->
+  <path d="M452 440 L422 460" fill="none" stroke="#ffccaa" stroke-width="15"/>
+  <path d="M552 440 L582 460" fill="none" stroke="#ffccaa" stroke-width="15"/>
+  
+  <!-- 搬运的石材 -->
+  <path d="M412 450 L592 450 L592 470 L412 470 Z" fill="#a9a9a9"/>
+  
+  <!-- 腿 -->
+  <path d="M472 580 L462 640" fill="none" stroke="#ffccaa" stroke-width="12"/>
+  <path d="M532 580 L542 640" fill="none" stroke="#ffccaa" stroke-width="12"/>
+ </g>
+</svg>

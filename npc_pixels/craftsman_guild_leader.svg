@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <!-- 基础轮廓 -->
+  <path d="M462 320 L562 320 L542 420 L482 420 L462 320" fill="#ffccaa"/>
+  <path d="M482 420 L542 420 L532 480 L492 480 L482 420" fill="#ffccaa"/>
+  
+  <!-- 银白色长发马尾 -->
+  <path d="M452 280 C442 260 442 240 462 230 C482 220 502 220 522 230 C542 240 552 260 552 280 C552 300 542 320 522 330 C502 340 482 340 462 330 C442 320 442 300 452 280" fill="#c0c0c0"/>
+  <path d="M522 280 L562 320 L572 360" fill="none" stroke="#c0c0c0" stroke-width="10"/>
+  
+  <!-- 精心修剪的胡须 -->
+  <path d="M482 390 L522 390" fill="#c0c0c0"/>
+  <path d="M472 380 C472 400 532 400 532 380" fill="none" stroke="#c0c0c0" stroke-width="4"/>
+  
+  <!-- 威严的眼神 -->
+  <path d="M472 355 L492 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M502 355 L522 355" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="482" cy="360" r="6" fill="#000000"/>
+  <circle cx="512" cy="360" r="6" fill="#000000"/>
+  
+  <!-- 威严表情 -->
+  <path d="M482 380 L512 380" fill="none" stroke="#000000" stroke-width="2"/>
+  
+  <!-- 华丽实用工匠服 -->
+  <path d="M462 420 L482 420 L492 480 L472 580 L442 580 L462 420" fill="#800000"/>
+  <path d="M542 420 L522 420 L512 480 L532 580 L562 580 L542 420" fill="#800000"/>
+  
+  <!-- 工匠服装饰 -->
+  <path d="M472 440 L532 440" fill="none" stroke="#ffd700" stroke-width="4"/>
+  <path d="M472 460 L532 460" fill="none" stroke="#ffd700" stroke-width="4"/>
+  <path d="M472 480 L532 480" fill="none" stroke="#ffd700" stroke-width="4"/>
+  
+  <!-- 手臂 -->
+  <path d="M462 440 L442 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M542 440 L562 460" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  
+  <!-- 精美工艺品 -->
+  <path d="M432 450 L452 450 L452 470 L432 470 Z" fill="#ffd700"/>
+  <path d="M432 450 Q442 440 452 450" fill="none" stroke="#daa520" stroke-width="2"/>
+  
+  <!-- 腿 -->
+  <path d="M482 580 L472 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+  <path d="M522 580 L532 640" fill="none" stroke="#ffccaa" stroke-width="10"/>
+ </g>
+</svg>
